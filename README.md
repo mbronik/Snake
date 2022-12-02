@@ -8,5 +8,5 @@ However, there is a ranking... but it also doesn't work lol
 
 There are many things to fix.
 
-But I will probably forget about it anyway
+You can help me fix it :)
 
